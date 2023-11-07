@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [JavaScript and React.js](JavaScript and React.js)
 
-- 💬 Ask me about **React, Vue and WordPress**
+- 💬 Ask me about **React, Js
 
 - 📫 How to reach me **jamilaaliyeva32@gmail.com**
 
